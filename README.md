@@ -1,5 +1,5 @@
-<h1 align="center">Hola soy Afastwight👋,</h1>
-<h3 align="center">👨‍💻 Passionate about the world of computing from Ecuador🎮</h3>
+<h1 align="center">Hola soy Antonio Jose Tapia Alvarez👋,</h1>
+<h3 align="center">👨‍💻 Apasionado sobre el mundo de la informática desde Ecuador🎮</h3>
 
 <center><img src="https://img.freepik.com/vector-gratis/astronauta-trabajando-computadora-portatil-escribiendo-ilustracion-dibujos-animados-concepto-negocio-ciencia-aislado-estilo-dibujos-animados-plana_138676-3447.jpg?w=2000" alt="icon-programacion" width="900"></center> 
 
