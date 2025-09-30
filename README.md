@@ -7,23 +7,23 @@
 
 <h1> Sobre mi </h1>
 
-- 🚀  My First project **Shooter** <a>https://github.com/Afastwight/Shooter-Game</a>
+- 🚀  Mi primer proyecto **Shooter** <a>https://github.com/Afastwight/Shooter-Game</a>
 
 - 🌱 I’m currently learning **C++, Javascript,React,etc**
 
-- 🏎️  My Second project **Calculadora** <a>https://github.com/Afastwight/Calculadora</a>
+- 🏎️  Mi segundo proyecto **Calculadora** <a>https://github.com/Afastwight/Calculadora</a>
 
-- 🛫 My Tercer project **Plane**
+- 🛫 My tercer proyecto **Serpiente** <a>https://github.com/Afastwight/Juego-Serpiente_Python</a>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/antonio-tapia-0aab6820b/](https://www.linkedin.com/in/antonio-tapia-0aab6820b/)
+- 👨‍💻 Mis demas proyectos puedes ver en linkedin [https://www.linkedin.com/in/antonio-tapia-0aab6820b/](https://www.linkedin.com/in/antonio-tapia-0aab6820b/)
 
-- 💬 Ask me about **python,Java,Htlm,Css or Unity**
+- 💬 Me puedes preguntar **python,Java,Htlm,Css or Unity**
 
-- 📫 How to reach me **antoniotapiaalvarez@gmail.com**
+- 📫 Pudes interactuar conmigo a este correo **antoniotapiaalvarez@gmail.com**
 
-- ⚡ Fun fact **I'm a man who thinks that life is one and that you have to be better day after day**
+- ⚡ Dato curioso: **Soy un hombre que piensa que la vida es una sola y que hay que ser mejor día tras día**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antonio tapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio tapia" height="30" width="40" /></a>
 <a href="https://fb.com/antonio tapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antonio tapia" height="30" width="40" /></a>
