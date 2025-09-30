@@ -9,7 +9,7 @@
 
 - 🚀  Mi primer proyecto **Shooter** <a>https://github.com/Afastwight/Shooter-Game</a>
 
-- 🌱 I’m currently learning **C++, Javascript,React,etc**
+- 🌱 Actualmente estoy en constante aprendizaje *C++, Javascript,React,etc*
 
 - 🏎️  Mi segundo proyecto **Calculadora** <a>https://github.com/Afastwight/Calculadora</a>
 
